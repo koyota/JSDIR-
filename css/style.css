@@ -1,0 +1,49 @@
+
+h1
+{
+  text-align: center
+}
+.btn:hover {
+  margin-top: 3px;
+  box-shadow: 0 3px 0 0 #a92b4f;
+  font-size: 2em;
+  border-radius: 40px;
+}
+
+.btn:active
+{
+  background-color:#F2C9C9;
+}
+.btn
+{
+  background: #F7F396;
+}
+.cat-button
+{
+  padding: 300px 500px 300px 36px;
+  background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Sleeping-Cat-Button.png") 10px 10px no-repeat;
+  background-position: 8px 8px;
+  border-radius: 80px;
+}
+
+.cat-button:active
+{
+  padding: 300px 500px 300px 36px;
+  background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Sleeping-Cat-Button.png") 10px 10px no-repeat;
+  background-position: 8px 8px;
+}
+.cat-button:hover
+{
+  padding: 300px 500px 300px 36px;
+  background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Yarn-Cat-Button1.png") 10px 10px no-repeat;
+  background-position: 8px 8px;
+}
+
+tr:hover td
+{
+  background: #F7F396;
+}
+#cat:hover
+{
+  content: url{"http://fatcat-designs.com/buttons/files/2011/07/Yarn-Cat-Button1.png"};
+}
