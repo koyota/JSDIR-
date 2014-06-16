@@ -18,24 +18,24 @@ h1
 {
   background: #F7F396;
 }
-.cat-button
+#cat-button
 {
   padding: 300px 500px 300px 36px;
-  background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Sleeping-Cat-Button.png") 10px 10px no-repeat;
+  /*background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Sleeping-Cat-Button.png") 10px 10px no-repeat;*/*/
   background-position: 8px 8px;
   border-radius: 80px;
 }
 
-.cat-button:active
+#cat-button:active
 {
   padding: 300px 500px 300px 36px;
-  background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Sleeping-Cat-Button.png") 10px 10px no-repeat;
+  /*background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Sleeping-Cat-Button.png") 10px 10px no-repeat;*/*/
   background-position: 8px 8px;
 }
-.cat-button:hover
+#cat-button:hover
 {
   padding: 300px 500px 300px 36px;
-  background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Yarn-Cat-Button1.png") 10px 10px no-repeat;
+  /*background: #f0f0f0 url("http://fatcat-designs.com/buttons/files/2011/07/Yarn-Cat-Button1.png") 10px 10px no-repeat;*/
   background-position: 8px 8px;
 }
 
